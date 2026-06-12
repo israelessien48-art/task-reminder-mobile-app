@@ -26,7 +26,7 @@ A Flutter-based mobile/desktop application that allows users to manage student r
 Uses local SQLite database stored on device.
 
 ## Video Demonstration
-Add your video link here.
+https://www.loom.com/share/d2938e56c22f466b8cb399ee6e03f10e
 
 ## Author
 Israel Godwin Essien
